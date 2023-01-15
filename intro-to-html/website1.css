@@ -1,0 +1,59 @@
+.request-button{
+    background-color: black;
+    border-color: rgba(247, 237, 237, 0.775);
+    color: white;
+    height: 28px;
+    border-style: bold;
+    font-size: 8px;
+    border-width: 6;
+    border-style: solid;
+    margin-right: 10; 
+    cursor: pointer; 
+    
+}
+.request-button:hover{
+    background-color: green;
+    border-color: purple;
+}
+.request-button:active{
+    background-color: aquamarine;
+    color:rgba(247, 237, 237, 0.775)
+    
+
+}
+.amazon-a:hover{
+    color: green;
+}
+.add-button{
+    background-color: rgba(230, 206, 102, 0.766);
+    border-radius: 50px;
+    font-size: 12;
+    height: 0.9cm;
+    width: 3cm;
+    border-style: solid;
+    
+
+}
+.get-button{
+    background-color:blueviolet;
+    border: none;
+    height: 32px;
+    width: 80px;
+    color:azure;
+    transition: background-color 0.5s, color 1s;
+    font-size: 10;
+    border-radius: 5%;
+    cursor: pointer;
+
+
+
+}
+.get-button:hover{
+    background-color:blue;
+    color: black;
+
+}
+.get-button:active{
+    background-color: red;
+    color: green;
+}

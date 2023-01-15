@@ -1,0 +1,64 @@
+                 .video-grid {
+                display: grid;
+                grid-template-columns: 50px 1fr;}  
+                
+                .thumbnails {
+                width: 100%;
+                
+                
+                
+                
+                    
+                }
+                
+
+            
+            .channels {
+                border-radius: 50%;
+                width: 40px;
+                display: inline-block;
+
+
+            }
+            .video-title{
+                margin-top: 0;
+                font-size: 14PX;
+                font-weight: 500; 
+                line-height: 20PX;
+                margin-bottom: 12px;
+                
+                
+
+            }  .author-name,
+            .video-stat {
+                font-size: 12PX;
+                color: rgb(96,96,96);
+
+            }.video-info { width: 250px;
+            display: inline-block;}
+            
+            
+                
+                
+            
+            .thumbnail-row {
+                margin-bottom: 12px;
+                position: relative;
+
+            }
+            .timer {
+                background-color: black;
+                position: absolute;
+                color: white;
+                bottom: 8px;
+                right: 5px;
+            }
+            .author-name {
+                margin-bottom: 4px;
+            }
+
+            
+
+
+            
+            
